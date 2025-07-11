@@ -1,2 +1,2 @@
 # CM-Net
-This code repository is currently in preparation
+This code repository is currently being prepared.
