@@ -1,2 +1,2 @@
 # CM-Net
-The code of CM-Net
+This code repository is currently in preparation
